@@ -1,0 +1,13 @@
+start_location,end_location,distance_metres
+Main Gate,Admin Block,250
+Main Gate,Canteen,180
+Admin Block,Library,220
+Admin Block,Academic Block,160
+Canteen,Library,270
+Canteen,Hostel,350
+Library,Academic Block,120
+Library,Auditorium,200
+Academic Block,Auditorium,140
+Academic Block,Hostel,300
+Auditorium,Sports Ground,260
+Hostel,Sports Ground,210
